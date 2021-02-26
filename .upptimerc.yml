@@ -1,6 +1,6 @@
 # Change these first
 owner: b-eee # Your GitHub username
-repo: ServiceUptime-STG # Your GitHub repository name
+repo: ServiceUptimeSTG # Your GitHub repository name
 sites:
   - name: Hexabase Staging Login
     url: https://az.hexabase.com/login
@@ -17,5 +17,5 @@ sites:
 assignees: # Users to assign downtime issues (optional)
   - Hokutosei    
 status-website:
-  baseUrl: /ServiceUptime-STG
+  baseUrl: /ServiceUptimeSTG
   name: Service Uptime
