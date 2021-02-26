@@ -1,7 +1,6 @@
 # Change these first
 owner: b-eee # Your GitHub username
 repo: ServiceUptime-STG # Your GitHub repository name
-# Add your sites here
 sites:
   - name: Hexabase Staging Login
     url: https://az.hexabase.com/login
@@ -16,9 +15,6 @@ sites:
     url: https://az-hxg.hexabase.com/linkerapi/health_check
     method: GET    
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ServiceUptime-STG
   name: Service Uptime
   navbar:
