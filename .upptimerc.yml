@@ -1,5 +1,5 @@
 # Change these first
-owner: Hexabase # Your GitHub username
+owner: b-eee # Your GitHub username
 repo: ServiceUptime-STG # Your GitHub repository name
 # Add your sites here
 sites:
@@ -20,10 +20,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ServiceUptime-STG
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Hexabase
-  introTitle: Services monitoring
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Service Uptime
   navbar:
     - title: Status
       href: /
