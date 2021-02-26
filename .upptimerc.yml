@@ -13,7 +13,9 @@ sites:
     method: GET
   - name: LinkerAPI Service
     url: https://az-hxg.hexabase.com/linkerapi/health_check
-    method: GET    
+    method: GET
+assignees: # Users to assign downtime issues (optional)
+  - Hokutosei    
 status-website:
   baseUrl: /ServiceUptime-STG
   name: Service Uptime
