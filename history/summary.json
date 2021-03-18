@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "88.38%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.34%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 529,
     "timeDay": 528,
     "timeWeek": 533,
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-03-18": 167
+      "2021-03-18": 191
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://az-hxg.hexabase.com/linkerapi/health_check",
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "linker-api-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 166,
     "timeDay": 161,
     "timeWeek": 165,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2021-03-18": 0
+      "2021-03-18": 23
     }
   }
 ]
