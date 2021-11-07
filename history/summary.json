@@ -22,7 +22,7 @@
     "url": "https://az-api.hexabase.com/health_check",
     "icon": "https://favicons.githubusercontent.com/az-api.hexabase.com",
     "slug": "hexabase-staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
