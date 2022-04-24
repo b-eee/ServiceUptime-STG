@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 535,
-    "timeWeek": 568,
-    "timeMonth": 521,
-    "timeYear": 612,
+    "time": 614,
+    "timeDay": 438,
+    "timeWeek": 540,
+    "timeMonth": 520,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 530,
-    "timeWeek": 534,
-    "timeMonth": 498,
+    "timeDay": 400,
+    "timeWeek": 508,
+    "timeMonth": 495,
     "timeYear": 584,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 735,
-    "timeWeek": 710,
-    "timeMonth": 667,
-    "timeYear": 700,
+    "timeDay": 577,
+    "timeWeek": 686,
+    "timeMonth": 666,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -59,15 +59,15 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "68.53%",
+    "uptime": "68.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.41%",
-    "time": 610,
-    "timeDay": 525,
-    "timeWeek": 542,
-    "timeMonth": 967,
+    "uptimeYear": "73.68%",
+    "time": 609,
+    "timeDay": 455,
+    "timeWeek": 531,
+    "timeMonth": 964,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2021-07-29": 111,
@@ -165,8 +165,7 @@
       "2021-04-28": 1440,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-25": 1440
     }
   },
   {
@@ -181,10 +180,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 162,
-    "timeWeek": 160,
-    "timeMonth": 148,
-    "timeYear": 159,
+    "timeDay": 138,
+    "timeWeek": 157,
+    "timeMonth": 149,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   }
 ]
