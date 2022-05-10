@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 557,
-    "timeWeek": 571,
-    "timeMonth": 538,
-    "timeYear": 609,
+    "time": 612,
+    "timeDay": 459,
+    "timeWeek": 546,
+    "timeMonth": 540,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 547,
-    "timeWeek": 535,
-    "timeMonth": 517,
+    "timeDay": 456,
+    "timeWeek": 522,
+    "timeMonth": 515,
     "timeYear": 584,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 727,
-    "timeWeek": 729,
-    "timeMonth": 731,
-    "timeYear": 704,
+    "time": 699,
+    "timeDay": 632,
+    "timeWeek": 706,
+    "timeMonth": 727,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -59,15 +59,15 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "69.68%",
+    "uptime": "69.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.79%",
+    "uptimeYear": "78.06%",
     "time": 607,
-    "timeDay": 518,
-    "timeWeek": 539,
-    "timeMonth": 553,
+    "timeDay": 450,
+    "timeWeek": 532,
+    "timeMonth": 551,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2021-07-29": 111,
@@ -149,8 +149,7 @@
       "2021-05-14": 1440,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
-      "2021-05-11": 1440,
-      "2021-05-10": 1440
+      "2021-05-11": 1440
     }
   },
   {
@@ -165,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 161,
-    "timeWeek": 161,
-    "timeMonth": 156,
+    "timeDay": 129,
+    "timeWeek": 157,
+    "timeMonth": 155,
     "timeYear": 159,
     "dailyMinutesDown": {}
   }
