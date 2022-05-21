@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 549,
-    "timeWeek": 505,
-    "timeMonth": 542,
+    "time": 610,
+    "timeDay": 420,
+    "timeWeek": 484,
+    "timeMonth": 538,
     "timeYear": 607,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
-    "timeDay": 540,
-    "timeWeek": 491,
-    "timeMonth": 522,
+    "timeDay": 366,
+    "timeWeek": 467,
+    "timeMonth": 516,
     "timeYear": 583,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
-    "timeDay": 698,
-    "timeWeek": 691,
-    "timeMonth": 743,
-    "timeYear": 705,
+    "timeDay": 526,
+    "timeWeek": 648,
+    "timeMonth": 736,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "70.43%",
+    "uptime": "70.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.80%",
+    "uptimeYear": "81.08%",
     "time": 613,
-    "timeDay": 880,
-    "timeWeek": 847,
-    "timeMonth": 656,
-    "timeYear": 636,
+    "timeDay": 380,
+    "timeWeek": 836,
+    "timeMonth": 652,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2021-07-29": 111,
       "2021-07-28": 1440,
@@ -138,8 +138,7 @@
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
-      "2021-05-22": 1440,
-      "2021-05-21": 1440
+      "2021-05-22": 1440
     }
   },
   {
@@ -154,10 +153,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 158,
-    "timeWeek": 146,
-    "timeMonth": 156,
-    "timeYear": 159,
+    "timeDay": 113,
+    "timeWeek": 137,
+    "timeMonth": 155,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   }
 ]
