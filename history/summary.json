@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 597,
-    "timeWeek": 550,
-    "timeMonth": 549,
-    "timeYear": 601,
+    "timeDay": 456,
+    "timeWeek": 533,
+    "timeMonth": 548,
+    "timeYear": 600,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 557,
-    "timeWeek": 491,
+    "timeDay": 455,
+    "timeWeek": 481,
     "timeMonth": 480,
     "timeYear": 578,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 873,
-    "timeWeek": 692,
-    "timeMonth": 663,
+    "timeDay": 579,
+    "timeWeek": 672,
+    "timeMonth": 661,
     "timeYear": 695,
     "dailyMinutesDown": {}
   },
@@ -59,14 +59,14 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "71.82%",
+    "uptime": "71.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.83%",
+    "uptimeYear": "87.11%",
     "time": 618,
-    "timeDay": 559,
-    "timeWeek": 505,
+    "timeDay": 449,
+    "timeWeek": 486,
     "timeMonth": 736,
     "timeYear": 644,
     "dailyMinutesDown": {
@@ -116,8 +116,7 @@
       "2021-06-16": 1440,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
-      "2021-06-13": 1440,
-      "2021-06-12": 1440
+      "2021-06-13": 1440
     }
   },
   {
@@ -132,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 165,
-    "timeWeek": 148,
+    "timeDay": 133,
+    "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 158,
     "dailyMinutesDown": {}
