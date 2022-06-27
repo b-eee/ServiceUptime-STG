@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 586,
-    "timeWeek": 577,
-    "timeMonth": 571,
-    "timeYear": 598,
+    "time": 605,
+    "timeDay": 397,
+    "timeWeek": 560,
+    "timeMonth": 568,
+    "timeYear": 597,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 595,
-    "timeWeek": 541,
-    "timeMonth": 498,
+    "time": 565,
+    "timeDay": 371,
+    "timeWeek": 521,
+    "timeMonth": 495,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 736,
-    "timeWeek": 714,
-    "timeMonth": 669,
-    "timeYear": 698,
+    "timeDay": 517,
+    "timeWeek": 675,
+    "timeMonth": 667,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   },
   {
@@ -59,15 +59,15 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "72.69%",
+    "uptime": "72.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.94%",
-    "time": 617,
-    "timeDay": 544,
-    "timeWeek": 523,
-    "timeMonth": 628,
+    "uptimeYear": "91.22%",
+    "time": 616,
+    "timeDay": 415,
+    "timeWeek": 516,
+    "timeMonth": 627,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2021-07-29": 111,
@@ -101,8 +101,7 @@
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1440,
-      "2021-06-28": 1440,
-      "2021-06-27": 1440
+      "2021-06-28": 1440
     }
   },
   {
@@ -117,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 164,
-    "timeWeek": 157,
+    "timeDay": 120,
+    "timeWeek": 153,
     "timeMonth": 147,
-    "timeYear": 158,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
