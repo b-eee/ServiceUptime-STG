@@ -1,7 +1,7 @@
 url: https://az-hxg.hexabase.com/apicore/health_check
-status: up
-code: 200
-responseTime: 553
-lastUpdated: 2022-06-28T18:35:08.183Z
+status: down
+code: 502
+responseTime: 1513
+lastUpdated: 2022-06-28T19:22:00.384Z
 startTime: Fri Feb 26 2021 13:31:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
