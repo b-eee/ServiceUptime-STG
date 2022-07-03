@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 386,
-    "timeWeek": 521,
-    "timeMonth": 540,
+    "time": 604,
+    "timeDay": 442,
+    "timeWeek": 500,
+    "timeMonth": 536,
     "timeYear": 596,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
-    "timeDay": 383,
-    "timeWeek": 515,
-    "timeMonth": 502,
-    "timeYear": 578,
+    "timeDay": 354,
+    "timeWeek": 480,
+    "timeMonth": 500,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 494,
-    "timeWeek": 647,
-    "timeMonth": 670,
-    "timeYear": 697,
+    "time": 695,
+    "timeDay": 469,
+    "timeWeek": 609,
+    "timeMonth": 667,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
@@ -59,15 +59,15 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "73.02%",
+    "uptime": "73.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.59%",
+    "uptimeYear": "92.86%",
     "time": 661,
-    "timeDay": 380,
-    "timeWeek": 1829,
-    "timeMonth": 1122,
+    "timeDay": 400,
+    "timeWeek": 1823,
+    "timeMonth": 1109,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2021-07-29": 111,
@@ -95,8 +95,7 @@
       "2021-07-07": 1440,
       "2021-07-06": 1440,
       "2021-07-05": 1440,
-      "2021-07-04": 1440,
-      "2021-07-03": 1440
+      "2021-07-04": 1440
     }
   },
   {
@@ -111,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 115,
-    "timeWeek": 150,
-    "timeMonth": 148,
+    "timeDay": 119,
+    "timeWeek": 144,
+    "timeMonth": 147,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
